@@ -3,12 +3,12 @@ Streaming data from API/Own data using PUBSUB to load  Bigquery for further anal
 
 
 # Prerquisties 
-Google cloud
- 1>Storage
- 2>PUBSUB
- 3>Bigquery
-python
-apache beam
+1>Google cloud
+ a>Storage
+ b>PUBSUB
+ c>Bigquery
+2>python
+3>apache beam
 
 
 # Data Generator.py
