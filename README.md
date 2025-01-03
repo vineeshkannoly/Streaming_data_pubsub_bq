@@ -22,7 +22,6 @@ This code will take the above data from GCS and initalizes the PUBSUB topics . T
 The code will use the Apache beam pipleine to read the PUBSUB subscription , transform the data and load to BQ schema. 
 
 # config.py
-
 Code for storing the GOOGLE connection details,bucket name,project details..
 
 
